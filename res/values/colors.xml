@@ -62,15 +62,15 @@
 
     <color name="material_palette_blue_accent">#77E0E0E0</color>
     <color name="material_palette_blue_accent_dark">#77BDBDBD</color>
-    <color name="material_palette_blue_primary">#ffeb3b</color>
-    <color name="material_palette_blue_primary_dark">#ffeb3b</color>
-    <color name="actionbar_palette_blue_primary">#ffeb3b</color>
+    <color name="material_palette_blue_primary">#ffc107</color>
+    <color name="material_palette_blue_primary_dark">#ffc107</color>
+    <color name="actionbar_palette_blue_primary">#ffc107</color>
 
 
     <!-- Disk usage blue -->
     <color name="material_palette_blue_1">#64B5F6</color>
     <color name="material_palette_blue_2">#2196F3</color>
-    <color name="material_palette_blue_3">#ffeb3b</color>
+    <color name="material_palette_blue_3">#ffc107</color>
     <color name="material_palette_blue_4">#0D47A1</color>
 
     <!-- Disk usage green -->
